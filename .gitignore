@@ -1,0 +1,27 @@
+# Compiled object files
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.pdb
+
+# Build directories
+build/
+cmake-build-*/
+
+# Meson build directory
+builddir/
+
+# Meson subproject package cache
+subprojects/packagecache/
