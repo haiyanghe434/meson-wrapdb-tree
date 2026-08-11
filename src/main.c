@@ -6,7 +6,6 @@
 #define HAS_SDL_TTF 1
 #endif
 #endif
-
 #ifndef HAS_SDL_TTF
 #define HAS_SDL_TTF 0
 #endif
