@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 #ifdef __has_include
 #if __has_include(<SDL_ttf.h>)
 #include <SDL_ttf.h>
