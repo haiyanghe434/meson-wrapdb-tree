@@ -14,6 +14,7 @@
 int main(void) {
     printf("WrapDB Dependency Tree Demo\n");
     printf("===========================\n");
+    printf("hello world");
 #if HAS_SDL_TTF
     printf("SDL_ttf version: %d.%d.%d\n",
            SDL_TTF_MAJOR_VERSION, SDL_TTF_MINOR_VERSION, SDL_TTF_PATCHLEVEL);
