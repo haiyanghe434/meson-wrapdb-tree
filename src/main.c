@@ -12,7 +12,6 @@
 #endif
 
 int main(void) {
-    printf("WrapDB Dependency Tree Demo\n");
     printf("===========================\n");
     printf("hello world");
 #if HAS_SDL_TTF
